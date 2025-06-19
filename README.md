@@ -5,3 +5,4 @@
 *DOMAIN* : VLSI
 *DURATION* : 6 WEEKS
 *MENTOR* : NEELA SANTOSH
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/be297b26-d975-419f-9081-fe868b9193dd)
